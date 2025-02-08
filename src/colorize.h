@@ -1,11 +1,6 @@
 #ifndef COLOREX_C_LIBRARY_H
 #define COLOREX_C_LIBRARY_H
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-
 typedef struct {
     unsigned char r, g, b;
 } Color;
